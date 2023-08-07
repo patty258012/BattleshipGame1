@@ -1,0 +1,77 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: rgb(64, 64, 114);
+}
+
+.instrucciones {
+  color: aqua;
+}
+
+.col-1 {
+  padding: 12px;
+  border: 1px;
+  color: aquamarine;
+  background-color: rgb(62, 62, 123);
+  border-color: white;
+  border-style: solid;
+}
+
+.row {
+  padding-top: 100px;
+  max-width: 600px;
+}
+
+.blank {
+  border-style: none;
+  background-color: rgb(64, 64, 114);
+}
+
+.gridborder {
+  background-color: rgb(48, 48, 85);
+}
+
+.top {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.ship {
+  background-color: blanchedalmond;
+}
+
+.miss {
+  background-color: aqua;
+  transition: all 0.5s;
+  transform: scale(0.1);
+}
+
+.hit {
+  background-color: brown;
+  transition: all 0.5s;
+}
+
+.gameover {
+  background-color: rgb(64, 64, 114);
+  color: rgb(64, 64, 114);
+}
+
+.YouWin {
+  font-size: 100px;
+  color: gold;
+}
+
+.YouLose {
+  font-size: 100px;
+  color: black;
+}
+
+button {
+  margin-right: 5px;
+}
+
+input {
+
+  margin-bottom: 10px;
+
+}
