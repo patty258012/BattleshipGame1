@@ -1,14 +1,24 @@
 # Battleship
 
-Battleship es un juego clásico, basado en el juego de mesa Battleship. Este proyecto fue realizado con [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una recreación del juego de mesa "Battleship", un juego en el que tú y tu oponente intentan hundir los barcos del otro.
 
-## Requerimientos
+## Tecnologías utilizadas
 
-1. Instala los paquete con el comando:
+ReactJS, Nodo, VScode, Git, Github, HTML, CSS, Javascritp.
+
+## Como inicializar
+
+1. Ir al directorio del proyecto:
+```
+ $cd battleshipgame
+```
+2. Instala los paquete con el comando:
 ```
 $ npm install
 ```
-2. Corre la app con el comando: 
+3. Inicie el servidor: 
 ```
 $ npm run start
 ```
+¡Divertirse!
+
